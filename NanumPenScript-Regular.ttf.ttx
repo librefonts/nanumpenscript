@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont sfntVersion="\x00\x01\x00\x00" ttLibVersion="2.4">
+  <GlyphOrder src="NanumPenScript-Regular.ttf.GlyphOrder.ttx"/>
+  <head src="NanumPenScript-Regular.ttf._h_e_a_d.ttx"/>
+  <hhea src="NanumPenScript-Regular.ttf._h_h_e_a.ttx"/>
+  <maxp src="NanumPenScript-Regular.ttf._m_a_x_p.ttx"/>
+  <OS_2 src="NanumPenScript-Regular.ttf.O_S_2f_2.ttx"/>
+  <hmtx src="NanumPenScript-Regular.ttf._h_m_t_x.ttx"/>
+  <cmap src="NanumPenScript-Regular.ttf._c_m_a_p.ttx"/>
+  <fpgm src="NanumPenScript-Regular.ttf._f_p_g_m.ttx"/>
+  <prep src="NanumPenScript-Regular.ttf._p_r_e_p.ttx"/>
+  <cvt src="NanumPenScript-Regular.ttf._c_v_t.ttx"/>
+  <loca src="NanumPenScript-Regular.ttf._l_o_c_a.ttx"/>
+  <glyf src="NanumPenScript-Regular.ttf._g_l_y_f.ttx"/>
+  <name src="NanumPenScript-Regular.ttf._n_a_m_e.ttx"/>
+  <post src="NanumPenScript-Regular.ttf._p_o_s_t.ttx"/>
+  <gasp src="NanumPenScript-Regular.ttf._g_a_s_p.ttx"/>
+  <FFTM src="NanumPenScript-Regular.ttf.F_F_T_M_.ttx"/>
+  <GDEF src="NanumPenScript-Regular.ttf.G_D_E_F_.ttx"/>
+  <GPOS src="NanumPenScript-Regular.ttf.G_P_O_S_.ttx"/>
+  <GSUB src="NanumPenScript-Regular.ttf.G_S_U_B_.ttx"/>
+  <feat src="NanumPenScript-Regular.ttf._f_e_a_t.ttx"/>
+  <morx src="NanumPenScript-Regular.ttf._m_o_r_x.ttx"/>
+  <prop src="NanumPenScript-Regular.ttf._p_r_o_p.ttx"/>
+  <DSIG src="NanumPenScript-Regular.ttf.D_S_I_G_.ttx"/>
+</ttFont>

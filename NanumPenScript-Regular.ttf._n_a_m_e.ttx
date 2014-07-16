@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <name>
+    <namerecord nameID="0" platformID="1" platEncID="0" langID="0x0">
+      Copyright &#169; 2010 NHN Corporation. All rights reserved. Font designed by Sandoll Communications Inc.
+    </namerecord>
+    <namerecord nameID="1" platformID="1" platEncID="0" langID="0x0">
+      Nanum Pen
+    </namerecord>
+    <namerecord nameID="2" platformID="1" platEncID="0" langID="0x0">
+      Regular
+    </namerecord>
+    <namerecord nameID="3" platformID="1" platEncID="0" langID="0x0">
+      1.100;SAND;NanumPen
+    </namerecord>
+    <namerecord nameID="4" platformID="1" platEncID="0" langID="0x0">
+      Nanum Pen
+    </namerecord>
+    <namerecord nameID="5" platformID="1" platEncID="0" langID="0x0">
+      Version 1.100;PS 1;hotconv 1.0.57;makeotf.lib2.0.21895
+    </namerecord>
+    <namerecord nameID="6" platformID="1" platEncID="0" langID="0x0">
+      NanumPen
+    </namerecord>
+    <namerecord nameID="7" platformID="1" platEncID="0" langID="0x0">
+      NanumPen is a registered trademark of NHN Corporation.
+    </namerecord>
+    <namerecord nameID="8" platformID="1" platEncID="0" langID="0x0">
+      NHN Corporation
+    </namerecord>
+    <namerecord nameID="9" platformID="1" platEncID="0" langID="0x0">
+      Doo-yul Kwak; Hyunghwan Choi; Nicolas Noh;
+    </namerecord>
+    <namerecord nameID="11" platformID="1" platEncID="0" langID="0x0">
+      http://www.nhncorp.com
+    </namerecord>
+    <namerecord nameID="12" platformID="1" platEncID="0" langID="0x0">
+      http://www.sandoll.co.kr
+    </namerecord>
+    <namerecord nameID="13" platformID="1" platEncID="0" langID="0x0">
+      NHN Corporation
+    </namerecord>
+    <namerecord nameID="14" platformID="1" platEncID="0" langID="0x0">
+      http://www.nhncorp.com
+    </namerecord>
+    <namerecord nameID="256" platformID="1" platEncID="0" langID="0x0">
+      All Typographic Features
+    </namerecord>
+    <namerecord nameID="257" platformID="1" platEncID="0" langID="0x0">
+      Ligatures
+    </namerecord>
+    <namerecord nameID="258" platformID="1" platEncID="0" langID="0x0">
+      Vertical Position
+    </namerecord>
+    <namerecord nameID="259" platformID="1" platEncID="0" langID="0x0">
+      Text Spacing
+    </namerecord>
+    <namerecord nameID="260" platformID="1" platEncID="0" langID="0x0">
+      All Type Features
+    </namerecord>
+    <namerecord nameID="261" platformID="1" platEncID="0" langID="0x0">
+      Rare Ligatures
+    </namerecord>
+    <namerecord nameID="262" platformID="1" platEncID="0" langID="0x0">
+      Normal Vertical Position
+    </namerecord>
+    <namerecord nameID="263" platformID="1" platEncID="0" langID="0x0">
+      Superiors
+    </namerecord>
+    <namerecord nameID="264" platformID="1" platEncID="0" langID="0x0">
+      Proportional
+    </namerecord>
+    <namerecord nameID="256" platformID="1" platEncID="0" langID="0x1">
+      Fonctions typographiques
+    </namerecord>
+    <namerecord nameID="257" platformID="1" platEncID="0" langID="0x1">
+      Ligatures
+    </namerecord>
+    <namerecord nameID="258" platformID="1" platEncID="0" langID="0x1">
+      Position Verticale
+    </namerecord>
+    <namerecord nameID="259" platformID="1" platEncID="0" langID="0x1">
+      Espacement du Texte
+    </namerecord>
+    <namerecord nameID="260" platformID="1" platEncID="0" langID="0x1">
+      Toutes fonctions typographiques
+    </namerecord>
+    <namerecord nameID="261" platformID="1" platEncID="0" langID="0x1">
+      Ligatures Rares
+    </namerecord>
+    <namerecord nameID="262" platformID="1" platEncID="0" langID="0x1">
+      Position Verticale Normale
+    </namerecord>
+    <namerecord nameID="263" platformID="1" platEncID="0" langID="0x1">
+      Position Sup&#142;rieure
+    </namerecord>
+    <namerecord nameID="264" platformID="1" platEncID="0" langID="0x1">
+      Proportionel
+    </namerecord>
+    <namerecord nameID="256" platformID="1" platEncID="0" langID="0x2">
+      Alle typografischen M&#154;glichkeiten
+    </namerecord>
+    <namerecord nameID="257" platformID="1" platEncID="0" langID="0x2">
+      Ligaturen
+    </namerecord>
+    <namerecord nameID="260" platformID="1" platEncID="0" langID="0x2">
+      Alle Auszeichnungsarten
+    </namerecord>
+    <namerecord nameID="261" platformID="1" platEncID="0" langID="0x2">
+      Seltene Ligaturen
+    </namerecord>
+    <namerecord nameID="262" platformID="1" platEncID="0" langID="0x2">
+      Normal
+    </namerecord>
+    <namerecord nameID="263" platformID="1" platEncID="0" langID="0x2">
+      Hochgestellt
+    </namerecord>
+    <namerecord nameID="256" platformID="1" platEncID="0" langID="0x3">
+      Funzioni Tipografiche
+    </namerecord>
+    <namerecord nameID="257" platformID="1" platEncID="0" langID="0x3">
+      Legature
+    </namerecord>
+    <namerecord nameID="260" platformID="1" platEncID="0" langID="0x3">
+      Tutte le Funzioni
+    </namerecord>
+    <namerecord nameID="261" platformID="1" platEncID="0" langID="0x3">
+      Legature Rare
+    </namerecord>
+    <namerecord nameID="262" platformID="1" platEncID="0" langID="0x3">
+      Posizione Normale
+    </namerecord>
+    <namerecord nameID="263" platformID="1" platEncID="0" langID="0x3">
+      Apice
+    </namerecord>
+    <namerecord nameID="256" platformID="1" platEncID="0" langID="0x4">
+      Alle typografische kenmerken
+    </namerecord>
+    <namerecord nameID="257" platformID="1" platEncID="0" langID="0x4">
+      Ligaturen
+    </namerecord>
+    <namerecord nameID="258" platformID="1" platEncID="0" langID="0x4">
+      Verticale positie
+    </namerecord>
+    <namerecord nameID="259" platformID="1" platEncID="0" langID="0x4">
+      TekstspatiQring
+    </namerecord>
+    <namerecord nameID="260" platformID="1" platEncID="0" langID="0x4">
+      Alle typekenmerken
+    </namerecord>
+    <namerecord nameID="261" platformID="1" platEncID="0" langID="0x4">
+      Zeldzame ligaturen
+    </namerecord>
+    <namerecord nameID="262" platformID="1" platEncID="0" langID="0x4">
+      Normale verticale positie
+    </namerecord>
+    <namerecord nameID="263" platformID="1" platEncID="0" langID="0x4">
+      Superieuren
+    </namerecord>
+    <namerecord nameID="264" platformID="1" platEncID="0" langID="0x4">
+      Proportioneel
+    </namerecord>
+    <namerecord nameID="0" platformID="1" platEncID="3" langID="0x17">
+      Copyright 
+    </namerecord>
+    <namerecord nameID="1" platformID="1" platEncID="3" langID="0x17">
+      &#179;&#170;&#180;&#174;&#188;&#213;&#177;&#219;&#190;&#190; &#198;&#230;
+    </namerecord>
+    <namerecord nameID="2" platformID="1" platEncID="3" langID="0x17">
+      Regular
+    </namerecord>
+    <namerecord nameID="4" platformID="1" platEncID="3" langID="0x17">
+      &#179;&#170;&#180;&#174;&#188;&#213;&#177;&#219;&#190;&#190; &#198;&#230;
+    </namerecord>
+    <namerecord nameID="9" platformID="1" platEncID="3" langID="0x17">
+      &#176;&#251;&#181;&#206;&#191;&#173;; &#195;&#214;&#199;&#252;&#200;&#175;; &#179;&#235;&#191;&#181;&#177;&#199;;
+    </namerecord>
+    <namerecord nameID="20" platformID="1" platEncID="4" langID="0x3c">
+      NanumPen
+    </namerecord>
+    <namerecord nameID="0" platformID="3" platEncID="1" langID="0x409">
+      Copyright &#169; 2010 NHN Corporation. All rights reserved. Font designed by Sandoll Communications Inc.
+    </namerecord>
+    <namerecord nameID="1" platformID="3" platEncID="1" langID="0x409">
+      Nanum Pen
+    </namerecord>
+    <namerecord nameID="2" platformID="3" platEncID="1" langID="0x409">
+      Regular
+    </namerecord>
+    <namerecord nameID="3" platformID="3" platEncID="1" langID="0x409">
+      1.100;SAND;NanumPen
+    </namerecord>
+    <namerecord nameID="4" platformID="3" platEncID="1" langID="0x409">
+      Nanum Pen
+    </namerecord>
+    <namerecord nameID="5" platformID="3" platEncID="1" langID="0x409">
+      Version 1.100;PS 1;hotconv 1.0.57;makeotf.lib2.0.21895
+    </namerecord>
+    <namerecord nameID="6" platformID="3" platEncID="1" langID="0x409">
+      NanumPen
+    </namerecord>
+    <namerecord nameID="7" platformID="3" platEncID="1" langID="0x409">
+      NanumPen is a registered trademark of NHN Corporation.
+    </namerecord>
+    <namerecord nameID="8" platformID="3" platEncID="1" langID="0x409">
+      NHN Corporation
+    </namerecord>
+    <namerecord nameID="9" platformID="3" platEncID="1" langID="0x409">
+      Doo-yul Kwak; Hyunghwan Choi; Nicolas Noh;
+    </namerecord>
+    <namerecord nameID="11" platformID="3" platEncID="1" langID="0x409">
+      http://www.nhncorp.com
+    </namerecord>
+    <namerecord nameID="12" platformID="3" platEncID="1" langID="0x409">
+      http://www.sandoll.co.kr
+    </namerecord>
+    <namerecord nameID="13" platformID="3" platEncID="1" langID="0x409">
+      NHN Corporation
+    </namerecord>
+    <namerecord nameID="14" platformID="3" platEncID="1" langID="0x409">
+      http://www.nhncorp.com
+    </namerecord>
+    <namerecord nameID="0" platformID="3" platEncID="1" langID="0x412">
+      Copyright 
+    </namerecord>
+    <namerecord nameID="1" platformID="3" platEncID="1" langID="0x412">
+      &#45208;&#45588;&#49552;&#44544;&#50472; &#54172;
+    </namerecord>
+    <namerecord nameID="2" platformID="3" platEncID="1" langID="0x412">
+      Regular
+    </namerecord>
+    <namerecord nameID="4" platformID="3" platEncID="1" langID="0x412">
+      &#45208;&#45588;&#49552;&#44544;&#50472; &#54172;
+    </namerecord>
+    <namerecord nameID="9" platformID="3" platEncID="1" langID="0x412">
+      &#44285;&#46160;&#50676;; &#52572;&#54805;&#54872;; &#45432;&#50689;&#44428;;
+    </namerecord>
+    <namerecord nameID="20" platformID="3" platEncID="1" langID="0xffff">
+      NanumPen
+    </namerecord>
+  </name>
+
+</ttFont>

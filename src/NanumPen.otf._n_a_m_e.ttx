@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <name>
+    <namerecord nameID="0" platformID="1" platEncID="0" langID="0x0">
+      Copyright &#169; 2010 NHN Corporation. All rights reserved. Font designed by Sandoll Communications Inc.
+    </namerecord>
+    <namerecord nameID="1" platformID="1" platEncID="0" langID="0x0">
+      Nanum Pen Script OTF
+    </namerecord>
+    <namerecord nameID="2" platformID="1" platEncID="0" langID="0x0">
+      Regular
+    </namerecord>
+    <namerecord nameID="3" platformID="1" platEncID="0" langID="0x0">
+      1.100;SAND;NanumPenOTF
+    </namerecord>
+    <namerecord nameID="4" platformID="1" platEncID="0" langID="0x0">
+      Nanum Pen Script OTF
+    </namerecord>
+    <namerecord nameID="5" platformID="1" platEncID="0" langID="0x0">
+      Version 1.100;PS 1;hotconv 1.0.57;makeotf.lib2.0.21895
+    </namerecord>
+    <namerecord nameID="6" platformID="1" platEncID="0" langID="0x0">
+      NanumPenOTF
+    </namerecord>
+    <namerecord nameID="7" platformID="1" platEncID="0" langID="0x0">
+      NanumPenOTF is a registered trademark of NHN Corporation.
+    </namerecord>
+    <namerecord nameID="8" platformID="1" platEncID="0" langID="0x0">
+      NHN Corporation
+    </namerecord>
+    <namerecord nameID="9" platformID="1" platEncID="0" langID="0x0">
+      Doo-yul Kwak; Hyunghwan Choi; Nicolas Noh;
+    </namerecord>
+    <namerecord nameID="11" platformID="1" platEncID="0" langID="0x0">
+      http://www.nhncorp.com
+    </namerecord>
+    <namerecord nameID="12" platformID="1" platEncID="0" langID="0x0">
+      http://www.sandoll.co.kr
+    </namerecord>
+    <namerecord nameID="13" platformID="1" platEncID="0" langID="0x0">
+      NHN Corporation
+    </namerecord>
+    <namerecord nameID="14" platformID="1" platEncID="0" langID="0x0">
+      http://www.nhncorp.com
+    </namerecord>
+    <namerecord nameID="0" platformID="1" platEncID="3" langID="0x17">
+      Copyright &#131; 2010 NHN Corporation. All rights reserved. Font designed by Sandoll Communications Inc.
+    </namerecord>
+    <namerecord nameID="1" platformID="1" platEncID="3" langID="0x17">
+      &#179;&#170;&#180;&#174;&#188;&#213;&#177;&#219;&#190;&#190; &#198;&#230; OTF
+    </namerecord>
+    <namerecord nameID="2" platformID="1" platEncID="3" langID="0x17">
+      Regular
+    </namerecord>
+    <namerecord nameID="4" platformID="1" platEncID="3" langID="0x17">
+      &#179;&#170;&#180;&#174;&#188;&#213;&#177;&#219;&#190;&#190; &#198;&#230; OTF
+    </namerecord>
+    <namerecord nameID="9" platformID="1" platEncID="3" langID="0x17">
+      &#176;&#251;&#181;&#206;&#191;&#173;; &#195;&#214;&#199;&#252;&#200;&#175;; &#179;&#235;&#191;&#181;&#177;&#199;;
+    </namerecord>
+    <namerecord nameID="20" platformID="1" platEncID="3" langID="0xffff">
+      NanumPenOTF-KSCpc-EUC-H
+    </namerecord>
+    <namerecord nameID="0" platformID="3" platEncID="1" langID="0x409">
+      Copyright &#169; 2010 NHN Corporation. All rights reserved. Font designed by Sandoll Communications Inc.
+    </namerecord>
+    <namerecord nameID="1" platformID="3" platEncID="1" langID="0x409">
+      Nanum Pen Script OTF
+    </namerecord>
+    <namerecord nameID="1" platformID="3" platEncID="1" langID="0x412">
+      &#45208;&#45588;&#49552;&#44544;&#50472; &#54172; OTF
+    </namerecord>
+    <namerecord nameID="2" platformID="3" platEncID="1" langID="0x409">
+      Regular
+    </namerecord>
+    <namerecord nameID="2" platformID="3" platEncID="1" langID="0x412">
+      Regular
+    </namerecord>
+    <namerecord nameID="3" platformID="3" platEncID="1" langID="0x409">
+      1.100;SAND;NanumPenOTF
+    </namerecord>
+    <namerecord nameID="4" platformID="3" platEncID="1" langID="0x409">
+      Nanum Pen Script OTF
+    </namerecord>
+    <namerecord nameID="4" platformID="3" platEncID="1" langID="0x412">
+      &#45208;&#45588;&#49552;&#44544;&#50472; &#54172; OTF
+    </namerecord>
+    <namerecord nameID="5" platformID="3" platEncID="1" langID="0x409">
+      Version 1.100;PS 1;hotconv 1.0.57;makeotf.lib2.0.21895
+    </namerecord>
+    <namerecord nameID="6" platformID="3" platEncID="1" langID="0x409">
+      NanumPenOTF
+    </namerecord>
+    <namerecord nameID="7" platformID="3" platEncID="1" langID="0x409">
+      NanumPenOTF is a registered trademark of NHN Corporation.
+    </namerecord>
+    <namerecord nameID="8" platformID="3" platEncID="1" langID="0x409">
+      NHN Corporation
+    </namerecord>
+    <namerecord nameID="9" platformID="3" platEncID="1" langID="0x409">
+      Doo-yul Kwak; Hyunghwan Choi; Nicolas Noh;
+    </namerecord>
+    <namerecord nameID="9" platformID="3" platEncID="1" langID="0x412">
+      &#44285;&#46160;&#50676;; &#52572;&#54805;&#54872;; &#45432;&#50689;&#44428;;
+    </namerecord>
+    <namerecord nameID="11" platformID="3" platEncID="1" langID="0x409">
+      http://www.nhncorp.com
+    </namerecord>
+    <namerecord nameID="12" platformID="3" platEncID="1" langID="0x409">
+      http://www.sandoll.co.kr
+    </namerecord>
+    <namerecord nameID="13" platformID="3" platEncID="1" langID="0x409">
+      NHN Corporation
+    </namerecord>
+    <namerecord nameID="14" platformID="3" platEncID="1" langID="0x409">
+      http://www.nhncorp.com
+    </namerecord>
+  </name>
+
+</ttFont>

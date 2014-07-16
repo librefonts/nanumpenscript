@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <GPOS>
+    <Version value="1.0"/>
+    <ScriptList>
+      <!-- ScriptCount=7 -->
+      <ScriptRecord index="0">
+        <ScriptTag value="DFLT"/>
+        <Script>
+          <DefaultLangSys>
+            <ReqFeatureIndex value="65535"/>
+            <!-- FeatureCount=2 -->
+            <FeatureIndex index="0" value="0"/>
+            <FeatureIndex index="1" value="1"/>
+          </DefaultLangSys>
+          <!-- LangSysCount=0 -->
+        </Script>
+      </ScriptRecord>
+      <ScriptRecord index="1">
+        <ScriptTag value="cyrl"/>
+        <Script>
+          <DefaultLangSys>
+            <ReqFeatureIndex value="65535"/>
+            <!-- FeatureCount=2 -->
+            <FeatureIndex index="0" value="0"/>
+            <FeatureIndex index="1" value="1"/>
+          </DefaultLangSys>
+          <!-- LangSysCount=0 -->
+        </Script>
+      </ScriptRecord>
+      <ScriptRecord index="2">
+        <ScriptTag value="grek"/>
+        <Script>
+          <DefaultLangSys>
+            <ReqFeatureIndex value="65535"/>
+            <!-- FeatureCount=2 -->
+            <FeatureIndex index="0" value="0"/>
+            <FeatureIndex index="1" value="1"/>
+          </DefaultLangSys>
+          <!-- LangSysCount=0 -->
+        </Script>
+      </ScriptRecord>
+      <ScriptRecord index="3">
+        <ScriptTag value="hang"/>
+        <Script>
+          <DefaultLangSys>
+            <ReqFeatureIndex value="65535"/>
+            <!-- FeatureCount=2 -->
+            <FeatureIndex index="0" value="0"/>
+            <FeatureIndex index="1" value="1"/>
+          </DefaultLangSys>
+          <!-- LangSysCount=0 -->
+        </Script>
+      </ScriptRecord>
+      <ScriptRecord index="4">
+        <ScriptTag value="hani"/>
+        <Script>
+          <DefaultLangSys>
+            <ReqFeatureIndex value="65535"/>
+            <!-- FeatureCount=2 -->
+            <FeatureIndex index="0" value="0"/>
+            <FeatureIndex index="1" value="1"/>
+          </DefaultLangSys>
+          <!-- LangSysCount=0 -->
+        </Script>
+      </ScriptRecord>
+      <ScriptRecord index="5">
+        <ScriptTag value="kana"/>
+        <Script>
+          <DefaultLangSys>
+            <ReqFeatureIndex value="65535"/>
+            <!-- FeatureCount=2 -->
+            <FeatureIndex index="0" value="0"/>
+            <FeatureIndex index="1" value="1"/>
+          </DefaultLangSys>
+          <!-- LangSysCount=0 -->
+        </Script>
+      </ScriptRecord>
+      <ScriptRecord index="6">
+        <ScriptTag value="latn"/>
+        <Script>
+          <DefaultLangSys>
+            <ReqFeatureIndex value="65535"/>
+            <!-- FeatureCount=2 -->
+            <FeatureIndex index="0" value="0"/>
+            <FeatureIndex index="1" value="1"/>
+          </DefaultLangSys>
+          <!-- LangSysCount=0 -->
+        </Script>
+      </ScriptRecord>
+    </ScriptList>
+    <FeatureList>
+      <!-- FeatureCount=2 -->
+      <FeatureRecord index="0">
+        <FeatureTag value="halt"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="1">
+        <FeatureTag value="vhal"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="1"/>
+        </Feature>
+      </FeatureRecord>
+    </FeatureList>
+    <LookupList>
+      <!-- LookupCount=2 -->
+      <Lookup index="0">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=7 -->
+        <SinglePos index="0" Format="1">
+          <Coverage Format="1">
+            <Glyph value="uniFF5B"/>
+          </Coverage>
+          <ValueFormat value="5"/>
+          <Value XPlacement="-470" XAdvance="-470"/>
+        </SinglePos>
+        <SinglePos index="1" Format="1">
+          <Coverage Format="1">
+            <Glyph value="uniFF01"/>
+          </Coverage>
+          <ValueFormat value="5"/>
+          <Value XPlacement="-243" XAdvance="-470"/>
+        </SinglePos>
+        <SinglePos index="2" Format="1">
+          <Coverage Format="1">
+            <Glyph value="uni318D"/>
+            <Glyph value="uniFF07"/>
+            <Glyph value="uniFF1A"/>
+          </Coverage>
+          <ValueFormat value="5"/>
+          <Value XPlacement="-236" XAdvance="-470"/>
+        </SinglePos>
+        <SinglePos index="3" Format="1">
+          <Coverage Format="1">
+            <Glyph value="uni2034"/>
+            <Glyph value="uniFF02"/>
+            <Glyph value="uniFF1B"/>
+            <Glyph value="glyph8318"/>
+            <Glyph value="glyph8319"/>
+            <Glyph value="glyph8578"/>
+            <Glyph value="glyph8579"/>
+            <Glyph value="glyph8580"/>
+            <Glyph value="glyph8581"/>
+          </Coverage>
+          <ValueFormat value="5"/>
+          <Value XPlacement="-235" XAdvance="-470"/>
+        </SinglePos>
+        <SinglePos index="4" Format="1">
+          <Coverage Format="1">
+            <Glyph value="uniFF40"/>
+          </Coverage>
+          <ValueFormat value="5"/>
+          <Value XPlacement="-233" XAdvance="-470"/>
+        </SinglePos>
+        <SinglePos index="5" Format="1">
+          <Coverage Format="1">
+            <Glyph value="uni3003"/>
+          </Coverage>
+          <ValueFormat value="5"/>
+          <Value XPlacement="-218" XAdvance="-470"/>
+        </SinglePos>
+        <SinglePos index="6" Format="1">
+          <Coverage Format="1">
+            <Glyph value="uni3001"/>
+            <Glyph value="uni3002"/>
+            <Glyph value="uniFF0C"/>
+            <Glyph value="uniFF0E"/>
+            <Glyph value="uniFF5D"/>
+            <Glyph value="glyph9331"/>
+            <Glyph value="glyph9332"/>
+          </Coverage>
+          <ValueFormat value="4"/>
+          <Value XAdvance="-470"/>
+        </SinglePos>
+      </Lookup>
+      <Lookup index="1">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=3 -->
+        <SinglePos index="0" Format="1">
+          <Coverage Format="1">
+            <Glyph value="uni2035"/>
+            <Glyph value="uni2036"/>
+            <Glyph value="uni3001.aalt"/>
+            <Glyph value="uni3002.aalt"/>
+            <Glyph value="uni3015.aalt"/>
+            <Glyph value="uni3009.aalt"/>
+            <Glyph value="uni300B.aalt"/>
+            <Glyph value="uni300D.aalt"/>
+            <Glyph value="uni300F.aalt"/>
+            <Glyph value="uni3011.aalt"/>
+            <Glyph value="uniFF09.vert"/>
+            <Glyph value="uniFF0C.vert"/>
+            <Glyph value="uniFF0E.vert"/>
+            <Glyph value="uniFF3D.vert"/>
+            <Glyph value="uniFF5D.vert"/>
+          </Coverage>
+          <ValueFormat value="8"/>
+          <Value YAdvance="-500"/>
+        </SinglePos>
+        <SinglePos index="1" Format="1">
+          <Coverage Format="1">
+            <Glyph value="uni2016.aalt"/>
+            <Glyph value="uniFF5C.vert"/>
+          </Coverage>
+          <ValueFormat value="10"/>
+          <Value YPlacement="250" YAdvance="-500"/>
+        </SinglePos>
+        <SinglePos index="2" Format="1">
+          <Coverage Format="1">
+            <Glyph value="uni3014.aalt"/>
+            <Glyph value="uni3008.aalt"/>
+            <Glyph value="uni300A.aalt"/>
+            <Glyph value="uni300C.aalt"/>
+            <Glyph value="uni300E.aalt"/>
+            <Glyph value="uni3010.aalt"/>
+            <Glyph value="uniFF08.vert"/>
+            <Glyph value="uniFF3B.vert"/>
+            <Glyph value="uniFF5B.vert"/>
+            <Glyph value="glyph9325"/>
+            <Glyph value="glyph9327"/>
+          </Coverage>
+          <ValueFormat value="10"/>
+          <Value YPlacement="500" YAdvance="-500"/>
+        </SinglePos>
+      </Lookup>
+    </LookupList>
+  </GPOS>
+
+</ttFont>
