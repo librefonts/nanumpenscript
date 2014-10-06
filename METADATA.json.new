@@ -1,0 +1,33 @@
+{
+  "name": "Nanum Pen Script",
+  "designer": "Sandoll Communication",
+  "license": "OFL",
+  "visibility": "Sandbox",
+  "category": "Handwriting",
+  "size": 1548776,
+  "fonts": [
+    {
+      "name": "Nanum Pen",
+      "style": "normal",
+      "weight": 400,
+      "filename": "NanumPenScriptOTF-Regular.ttf",
+      "postScriptName": "NanumPenOTF00",
+      "fullName": "",
+      "copyright": ""
+    },
+    {
+      "name": "Nanum Pen",
+      "style": "normal",
+      "weight": 400,
+      "filename": "NanumPen-Regular.ttf",
+      "postScriptName": "NanumPen",
+      "fullName": "Nanum Pen",
+      "copyright": "Copyright (c) 2010 NHN Corporation. All rights reserved. Font designed by Sandoll Communications Inc."
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2012-05-09"
+}

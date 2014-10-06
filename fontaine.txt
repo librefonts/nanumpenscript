@@ -1,0 +1,90 @@
+Fonts
+  All fonts have the same character sets.
+  Font:
+    Common name: 나눔손글씨 펜
+    Sub family: Regular
+    Weight: normal
+    Fixed width: yes
+    Fixed sizes: yes
+    Copyright: Copyright
+    License: NHN Corporation
+    License url: http://www.nhncorp.com
+    Version: Version 1.100;PS 1;hotconv 1.0.57;makeotf.lib2.0.21895
+    Vendor: NHN Corporation
+    Vendor url: http://www.nhncorp.com
+    Designer: 곽두열; 최형환; 노영권;
+    Designer url: http://www.sandoll.co.kr
+    Glyph count: 20772
+    Character count: 17555
+    Orthographies:
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset cyrillic
+          Support level: fragmentary
+          Percent coverage: 66
+        Orthography:
+          Common name: Subset latin
+          Support level: fragmentary
+          Percent coverage: 68
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: partial
+          Percent coverage: 84
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 2
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: full
+        Orthography:
+          Common name: Subset greek
+          Support level: fragmentary
+          Percent coverage: 33
+  Font:
+    Common name: 나눔손글씨 펜 OTF
+    Sub family: Regular
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright © 2010 NHN Corporation. All rights reserved. Font designed by Sandoll Communications Inc.
+    License: NHN Corporation
+    License url: http://www.nhncorp.com
+    Version: Version 1.100;PS 1;hotconv 1.0.57;makeotf.lib2.0.21895
+    Vendor: NHN Corporation
+    Vendor url: http://www.nhncorp.com
+    Designer: 곽두열; 최형환; 노영권;
+    Designer url: http://www.sandoll.co.kr
+    Glyph count: 18214
+    Character count: 17559
+    Orthographies:
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset cyrillic
+          Support level: fragmentary
+          Percent coverage: 66
+        Orthography:
+          Common name: Subset latin
+          Support level: fragmentary
+          Percent coverage: 70
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: partial
+          Percent coverage: 84
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 2
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: full
+        Orthography:
+          Common name: Subset greek
+          Support level: fragmentary
+          Percent coverage: 33
